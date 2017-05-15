@@ -1,0 +1,24 @@
+
+Client:	##identity:Dell
++233987:	Hello
+Me:		hello
++233987:	Wow
++233987:	Hey
+Me:		Hi
+Me:		Yo
++233987:	Wow
+Me:		Hi
+Me:		sflknfoksnfonsf
+Me:		hi
+Me:		yo
++233987:	Hope
+Me:		hopr
+Me:		ko
+Me:		like ko
+Me:		im client
+Me:		ok
++233987:	Hello
++233987:	Great
+Me:		seed
+Me:		ffffffff
+Me:		Something wrong: null

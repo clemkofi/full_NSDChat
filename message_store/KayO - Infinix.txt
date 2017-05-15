@@ -1,0 +1,19 @@
+
+Client:	##identity:Dell
+Client:	##identity:KayO - Infinix
+Server:	hey
+Client:	hi
+Client:	##identity:KayO - Infinix
+Client:	hello
+Server:	hi
+Client:	😐😇😢😇😢😠😑😠😴😤😨😤😧😥
+Server:	yoooin ybtrvubytnvyrdbyhtnvbumhmlkumnli
+Me:	##identity:Dell
+KayO - Infinix:	##identity:KayO - Infinix
+KayO - Infinix:	hi
+Me:	hi
+KayO - Infinix:	hello
+Me:		hi
+Me:		sup???
+KayO - Infinix:	hey
+Me:		Yello
